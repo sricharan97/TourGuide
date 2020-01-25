@@ -11,15 +11,17 @@ This project had been started with intention to learn following important featur
 # Screenshots
 
 <img src="/Screenshots/MainScree_tab_1.jpg" width="200" align="center"> 
-<img src="/Screenshots/MainScreen_tab_2.jpg" width="300" align="center">
+<img src="/Screenshots/MainScreen_tab_2.jpg" width="200" align="center">
 
-<img src="/Screenshots/MainScreen_tab_3.jpg" width="300" align="center">
-<img src="/Screenshots/Detail_screen.jpg" width="300" align="center">
+<img src="/Screenshots/MainScreen_tab_3.jpg" width="200" align="center">
+<img src="/Screenshots/Detail_screen.jpg" width="200" align="center">
 
 
 # Video Walkthrough
 
-
+<a href="https://youtu.be/u8P62F9bLak
+" target="_blank"><img src="/Screenshots/MainScree_tab_1.jp" 
+alt="Click to watch the video" width="240" height="180" border="10" /></a>
 
 
 # Actual Features used
