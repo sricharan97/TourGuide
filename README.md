@@ -21,9 +21,11 @@ This project had been started with intention to learn following important featur
 
 # Video Walkthrough
 
+**Click the below image to watch the navigation within the app
+
 <a href="https://youtu.be/u8P62F9bLak
 " target="_blank"><img src="/Screenshots/MainScree_tab_1.jpg" 
-alt="Click to watch the video" width="300"  border="30" /></a>
+alt="Click to watch the video" width="150"  border="30" /></a>
 
 
 # Actual Features used
