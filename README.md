@@ -21,7 +21,7 @@ This project had been started with intention to learn following important featur
 
 # Video Walkthrough
 
-**Click the below image to watch the navigation within the app
+**Click the below image to watch the navigation within the app**
 
 <a href="https://youtu.be/u8P62F9bLak
 " target="_blank"><img src="/Screenshots/MainScree_tab_1.jpg" 
