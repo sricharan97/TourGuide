@@ -10,13 +10,13 @@ This project had been started with intention to learn following important featur
 
 # Screenshots
 
-<img src="/Screenshots/MainScree_tab_1.jpg" width="48">
+<img src="/Screenshots/MainScree_tab_1.jpg" width="300">
 
-<img src="/Screenshots/MainScree_tab_2.jpg" width="48">
+<img src="/Screenshots/MainScreen_tab_2.jpg" width="300">
 
-<img src="/Screenshots/MainScree_tab_3.jpg" width="48">
+<img src="/Screenshots/MainScreen_tab_3.jpg" width="300">
 
-<img src="/Screenshots/Detail_Screen.jpg" width="48">
+<img src="/Screenshots/Detail_screen.jpg" width="300">
 
 
 # Video Walkthrough
