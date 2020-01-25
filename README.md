@@ -9,13 +9,19 @@ This project had been started with intention to learn following important featur
 * Following best practices when it comes to usage of string and image resources in the application.
 
 # Screenshots
-![MainScreen-tab1](/Screenshots/MainScree_tab_1.jpg)
-![MainScreen-tab2](/Screenshots/MainScreen_tab_2.jpg)
-![MainScreen-tab3](/Screenshots/MainScreen_tab_3.jpg)
-![DetailScreen](/Screenshots/Detail_screen.jpg)
+
+<img src="/Screenshots/MainScree_tab_1.jpg" width="48">
+
+<img src="/Screenshots/MainScree_tab_2.jpg" width="48">
+
+<img src="/Screenshots/MainScree_tab_3.jpg" width="48">
+
+<img src="/Screenshots/Detail_Screen.jpg" width="48">
+
 
 # Video Walkthrough
-![App navigation](/Screenshots/MainScree_tab_1.jpg)
+
+![App navigation](/Screenshots/Video_walkthrough.mp4)
 
 
 
