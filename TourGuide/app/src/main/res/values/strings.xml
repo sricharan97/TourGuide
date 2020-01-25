@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="toolbar_title">Visakhapatnam</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- strings describing different Activities in vizag-->
+    <string name="firstActivity">INS Kurusura</string>
+    <string name="secondActivity">Ramakrishna Beach</string>
+    <string name="thirdActivity">Rushikonda beach</string>
+    <string name="fourthActivity">Kailasagiri</string>
+    <string name="fifthActivity">Indira Gandhi Zoological Park</string>
+    <string name="sixthActivity">Dolphins Nose</string>
+
+    <!-- strings describing different Accommodations in vizag-->
+    <string name="firstHotel">Novotel</string>
+    <string name="secondHotel">Park hotel</string>
+    <string name="thirdHotel">Dolphins hotel</string>
+    <string name="fourthHotel">Palm Beach hotel</string>
+    <string name="fifthHotel">RK Beach hotel</string>
+
+    <!-- strings describing different restaurants in vizag-->
+    <string name="firstRestaurant">Aroma</string>
+    <string name="secondRestaurant">Horizons</string>
+    <string name="thirdRestaurant">The Square</string>
+    <string name="fourthRestaurant">V Hotel Olive</string>
+    <string name="fifthRestaurant">Sam\'s Griddle</string>
+
+    <!--Map urls for places-->
+    <string name="map_url_activity_1">https://www.google.com/maps/search/?api=1&amp;query=INS+Kurusura</string>
+    <string name="map_url_activity_2">https://www.google.com/maps/search/?api=1&amp;query=RamaKrishna+Beach</string>
+    <string name="map_url_activity_3">https://www.google.com/maps/search/?api=1&amp;query=Rushikonda+Beach</string>
+    <string name="map_url_activity_4">https://www.google.com/maps/search/?api=1&amp;query=Kailasagiri%2CVisakahapatnam%2CAndhra+Pradesh</string>
+    <string name="map_url_activity_5">https://www.google.com/maps/search/?api=1&amp;query=Indira+Gandhi+Zoological+Park</string>
+    <string name="map_url_activity_6">https://www.google.com/maps/search/?api=1&amp;query=Dolphins+Nose</string>
+    <string name="map_url_accommodation_1">https://www.google.com/maps/search/?api=1&amp;query=Novotel%2CVisakahapatnam%2CAndhra+Pradesh</string>
+    <string name="map_url_accommodation_2">https://www.google.com/maps/search/?api=1&amp;query=Park+hotel%2CVisakahapatnam%2CAndhra+Pradesh</string>
+    <string name="map_url_accommodation_3">https://www.google.com/maps/search/?api=1&amp;query=Dolphins+hotel%2CVisakahapatnam%2CAndhra+Pradesh</string>
+    <string name="map_url_accommodation_4">https://www.google.com/maps/search/?api=1&amp;query=Palm+Beach+hotel%2CVisakahapatnam%2CAndhra+Pradesh</string>
+    <string name="map_url_accommodation_5">https://www.google.com/maps/search/?api=1&amp;query=Rk+Beach+hotel%2CVisakahapatnam%2CAndhra+Pradesh</string>
+    <string name="map_url_restaurant_1">https://www.google.com/maps/search/?api=1&amp;query=Aroma+Restaurant%2CVisakahapatnam%2CAndhra+Pradesh</string>
+    <string name="map_url_restaurant_2">https://www.google.com/maps/search/?api=1&amp;query=Horizons+Restaurant%2CVisakahapatnam%2CAndhra+Pradesh</string>
+    <string name="map_url_restaurant_3">https://www.google.com/maps/search/?api=1&amp;query=The+Square+Restaurant%2CVisakahapatnam%2CAndhra+Pradesh</string>
+    <string name="map_url_restaurant_4">https://www.google.com/maps/search/?api=1&amp;query=V+hotel+Olive+Restaurant%2CVisakahapatnam%2CAndhra+Pradesh</string>
+    <string name="map_url_restaurant_5">https://www.google.com/maps/search/?api=1&amp;query=Sam\'s+griddle+Restaurant%2CVisakahapatnam%2CAndhra+Pradesh</string>
+
+    <!-- Description of each place-->
+    <string name="first_activity_description">INS Kursura (S20) was a Kalvari-class diesel-electric submarine of the Indian Navy\. She was India\'s fifth submarine. Kursura was commissioned on 18 December 1969 and was decommissioned on 27 February 2001 after 31 years of service. She participated in the Indo-Pakistani War of 1971, where she played a key role in patrol missions. She later participated in naval exercises with other nations and made many goodwill visits to other countries.
+        After decommissioning, she was preserved as a museum for public access on RK Beach in Visakhapatnam. Kursura has the distinction of being one of the very few submarine museums to retain originality and has been called a "must-visit destination" of Visakhapatnam</string>
+    <string name="second_activity_description">Ramakrishna beach, more popularly known as RK beach in Visakhapatnam is located in the heart of the city’s coastline. If you stand in the middle, on the right you can see the Dolphin’s Nose and on the left, you can see the INS Kursura parked just by the sea. Beach gets its name from the Ramakrishna Ashram that is located across the road from the beach</string>
+    <string name="third_activity_description">Ramakrishna beach, more popularly known as RK beach in Visakhapatnam is located in the heart of the city’s coastline. If you stand in the middle, on the right you can see the Dolphin’s Nose and on the left, you can see the INS Kursura parked just by the sea. Beach gets its name from the Ramakrishna Ashram that is located across the road from the beach</string>
+    <string name="fourth_activity_description">Kailasagiri is a hilltop park in the city of Visakhapatnam in the Indian state of Andhra Pradesh.[3] The park was developed by the Visakhapatnam Metropolitan Region Development Authority (VMRDA) and comprises 380 acres (150 ha) of land covered with flora and tropical trees. The hill, at 173 metres (568 ft), overlooks the city of Visakhapatnam.
+        The Government of Andhra Pradesh awarded Kailasagiri as its "Best Tourist Spot" in 2003. On average, around three hundred thousand Indian and foreign tourists visit the park every year. To protect the environment, VMRDA has declared the hill a plastic-free zone</string>
+    <string name="fifth_activity_description">The zoological park is named after the former Prime Minister of India, Indira Gandhi. It was declared open to the public on 19 May 1977.[4] It covers an area of 625 acres (253 ha). It is situated in Visakhapatnam amidst the scenic Eastern Ghats of India. It is surrounded by the Eastern Ghats on three sides and Bay of Bengal on the fourth side. Nearly eighty species of animals numbering to about eight hundred are present in the zoo.
+         The Zoo Park has different sections for primates, carnivores, lesser carnivores, small mammals, reptiles, ungulates and birds caged in their natural ambiance.The zoo park is about 11 kilometres (6.8 mi) from the Visakhapatnam railway station on the National Highway 5 near Madhurawada</string>
+    <string name="sixth_activity_description">Very similar to a dolphins nose, this 174 m high rocky headland is situated in the south of Vizag. The nose seems to be protruding out towards the Bay of Bengal giving it a rather fascinating look.
+        A renowned powerful light house highly useful for the shippers and has a light beam that can be seen as far as 64 km out at sea is also placed nearby. There is also a hill nearby named the Dolphin hill and is a restricted Armed forces residential area. The backside of the hill has a scenic, beautifully placed, secluded beach called yarada</string>
+    <string name="first_accommodation_description">Placed right on the beach stands a model of architectural brilliance and an epitome of hospitality, Novotel Visakhapatnam Varun Beach, the first and only 5-star deluxe hotel of the city and the entire state of Andhra Pradesh. With major accolades of the hospitality world added to its name like the "Best New Hotel of the Year 2011", "Best Hotel Design in Project Stage -PAN India 2011", "Best Business Hotel in Visakhapatnam" etc.
+        Novotel Visakhapatnam Varun Beach is the golden pendant on the diamond necklace, i.E., The VUDA marine drive.</string>
+    <string name="second_accommodation_description">The Park Visakhapatnam is an urban beach resort overlooking the Bay of Bengal. The surrounding scenic beauty is a treat to the senses and creates a very tranquil atmosphere ideal for unwinding after a hard day’s work. The resort has a private beach area and beautifully manicured gardens with tiled pavilions. One may be forgiven to think that this resort is primarily for the leisure tourist however this is not the case,
+        in fact quite the opposite - majority of the hotel’s guests come on work-related activities.</string>
+    <string name="third_accommodation_description">Welcome to Dolphin Hotel, your Visakhapatnam “home away from home.” Dolphin Hotel aims to make your visit as relaxing and enjoyable as possible, which is why so many guests continue to come back year after year. Given the close proximity of popular landmarks, such as Ross Hill Church (2.8 km) and Andhra University (4.7 km), guests of Dolphin Hotel can easily experience some of Visakhapatnam\'s most well known attractions. </string>
+    <string name="fourth_accommodation_description">See why so many travellers make Palm Beach Hotel and Resort their hotel of choice when visiting Visakhapatnam. Providing an ideal mix of value, comfort and convenience, it offers a romantic setting with an array of amenities designed for travellers like you. For those interested in checking out Sri Kanaka Mahalakshmi Temple (4.6 km) while visiting Visakhapatnam, Palm Beach Hotel is a short distance away.</string>
+    <string name="fifth_accommodation_description">See why so many travellers make RK Beach Hotel their boutique hotel of choice when visiting Kamari. Providing an ideal mix of value, comfort and convenience, it offers a charming setting with an array of amenities designed for travellers like you. RK Beach Hotel is a charming boutique hotel offering a refrigerator and air conditioning in the rooms, and it is easy to stay connected during your stay as free wifi is offered to guests.</string>
+    <string name="first_restaurant_description">Welcome!! Aroma Restaurant is a perfect example of what key features make a restaurant fancy. According to Aroma, fine dining is epitomised by high-quality, healthy food made from local produce, products that are in their natural state, food that is always gourmet and never excessive, dishes that are refined and precise and a dining experience that offers personalised service and an elegant atmosphere.</string>
+    <string name="second_restaurant_description">The multi-cuisine restaurant offering Buffet lunch and a la carte service giving a breath taking view of The city of Destiny. Quite simply, South of Vindhyas represents a unique culinary concept. An opportunity for you to enliven your senses, at one place with diverse flavors and delicacies in the southern part of India.</string>
+    <string name="third_restaurant_description">An all-day dining multi-cuisine Restaurant, The Square is rated amongst the top 5 restaurants in Visakhapatnam. It is extremely popular for its delicacies and its Lavish Buffet spread for Breakfast, lunch and Dinner.</string>
+    <string name="fourth_restaurant_description">Olive Restaurant at V Hotel - Srinagar, Vishakhapatnam, offers scrumptious delectables crafted by our master chefs who create magic with flavours to bring you a gastronomical adventure. From vegetarian delicacies to non-vegetarian treats, everything’s prepared with care and with the maintenance of quality standards. With an unmatched ambience in place, Olive specializes in Multi-Cuisine culinary favourites.</string>
+    <string name="fifth_restaurant_description">Unleashing the answer to remixing various continental, American and Italian gourmets is the Sam’s Griddle restaurant, which stands in place of Pepperazzi in Vizag.Continuing the tradition of impeccable service and great ambience, Sam’s Griddle now wraps in whole new excitement into its menu. Moving ahead from its previous style, new dishes will now make a thrilling appearance every week with a collection of delectable recipes and exciting presentation.</string>
+
+
+</resources>
