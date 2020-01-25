@@ -10,20 +10,20 @@ This project had been started with intention to learn following important featur
 
 # Screenshots
 
-<img src="/Screenshots/MainScree_tab_1.jpg" width="200" align="center" border="10"> 
+<img src="/Screenshots/MainScree_tab_1.jpg" width="200" align="center" border="30"> 
 
-<img src="/Screenshots/MainScreen_tab_2.jpg" width="200" align="center" border="10">
+<img src="/Screenshots/MainScreen_tab_2.jpg" width="200" align="center" border="30">
 
-<img src="/Screenshots/MainScreen_tab_3.jpg" width="200" align="center" border="10">
+<img src="/Screenshots/MainScreen_tab_3.jpg" width="200" align="center" border="30">
 
-<img src="/Screenshots/Detail_screen.jpg" width="200" align="center" border="10">
+<img src="/Screenshots/Detail_screen.jpg" width="200" align="center" border="30">
 
 
 # Video Walkthrough
 
 <a href="https://youtu.be/u8P62F9bLak
 " target="_blank"><img src="/Screenshots/MainScree_tab_1.jpg" 
-alt="Click to watch the video" width="240" height="180" border="10" /></a>
+alt="Click to watch the video" width="300"  border="30" /></a>
 
 
 # Actual Features used
