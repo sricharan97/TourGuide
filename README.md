@@ -10,11 +10,11 @@ This project had been started with intention to learn following important featur
 
 # Screenshots
 
-<img src="/Screenshots/MainScree_tab_1.jpg" width="300"> 
-<img src="/Screenshots/MainScreen_tab_2.jpg" width="300">
+<img src="/Screenshots/MainScree_tab_1.jpg" width="200" align="center"> 
+<img src="/Screenshots/MainScreen_tab_2.jpg" width="300" align="center">
 
-<img src="/Screenshots/MainScreen_tab_3.jpg" width="300">
-<img src="/Screenshots/Detail_screen.jpg" width="300">
+<img src="/Screenshots/MainScreen_tab_3.jpg" width="300" align="center">
+<img src="/Screenshots/Detail_screen.jpg" width="300" align="center">
 
 
 # Video Walkthrough
