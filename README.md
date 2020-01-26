@@ -20,7 +20,7 @@ This project had been started with intention to learn following important featur
 <img src="/Screenshots/MainScreen_tab_3.jpg" width="200" align="center" border="30">
 
 **Detail_Screen**
-<img src="/Screenshots/Detail_screen.jpg" width="200" align="center" border="30">
+  <img src="/Screenshots/Detail_screen.jpg" width="200" align="center" border="30">
 
 
 # Video Walkthrough
